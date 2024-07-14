@@ -1,0 +1,14 @@
+/* External style sheet */
+
+/* I added an universal selector and set the default font-family to arial, helvetica, sans-serif this is not part of the assignment, it's something I added to make the output more clear on my monitor */        
+* {
+    font-family: arial, helvetica, sans-serif;
+}
+
+div {
+    background-color:red; 
+    color:white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
