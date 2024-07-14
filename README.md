@@ -1,10 +1,8 @@
 # CSS Exercises
 
-===========================================================================================================================================
-This is fork of the odin CSS Excercises files
-===========================================================================================================================================
-Sunday 14 July 2024 10:51:24 PM IST: completd the 01-02 of the foundations CSS excercises
-===========================================================================================================================================
+This is a fork of the odin CSS Exercises files
+
+Sunday 14 July 2024 10:51:24 PM IST: completed the 01-02 of the foundations CSS exercises
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
 
