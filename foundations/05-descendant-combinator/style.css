@@ -1,0 +1,10 @@
+/* styles */
+
+/* I tired to be adventures by combining type and class selectors */
+
+div .text {
+    background-color:#ffff00;
+    color:#ff0000;
+    font-size:20px;
+    text-align:center;
+}
